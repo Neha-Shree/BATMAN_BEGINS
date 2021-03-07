@@ -1,2 +1,1 @@
-# BATMAN_BEGINS
-batman
+# PROC41-Template
